@@ -1,1 +1,24 @@
-{"author":{"name":"Neilblaze","email":"neilblaze007@gmail.com","url":"https://github.com/Neilblaze"},"bugs":{"url":"https://github.com/Neilblaze/buffer2url/issues"},"dependencies":{"@babel/runtime":"^7.9.2"},"description":"Creates a base64-encoded data URL from a Buffer and a mimetype.","homepage":"https://github.com/Neilblaze/buffer2url#readme","name":"@Neilblaze/buffer2url","repository":"github:Neilblaze/buffer2url","types":"index.d.ts","version":"1.0.0"}
+{
+    "name": "buffer2url",
+    "version": "1.0.0",
+    "description": "Creates a data URL (base64-encoded) from a Buffer and a mimetype for node.js.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Neilblaze/buffer2url.git"
+    },
+    "keywords": [
+      "buffer2url"
+    ],
+    "author": "Neilblaze",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Neilblaze/buffer2url/issues"
+    },
+    "homepage": "https://github.com/Neilblaze/buffer2url#readme",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  }
+  
